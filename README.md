@@ -343,4 +343,5 @@ This project is created for the Reewild Backend Engineer Take Home Challenge.
 5. **Test the endpoints** with your favorite dishes!
 
 🌱 *Built with sustainability in mind - helping users make conscious food choices!*#   R e e w i l d  
+ #   R e e w i l d  
  
